@@ -1,0 +1,5 @@
+1. git status - állapot ellenőrzése
+2. git add "UTBH5B_0917" - feltöltés vagy ha több fájl van benne, akkor
+3. git add . - feltöltö az összes fájlt
+4. git commit -m
+5. git push
